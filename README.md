@@ -26,7 +26,7 @@ Matérias Faculdade:
     * Conjuntos
     * Algébra
 
-> **Isso é um Blockquote** <br>
+> **Isso são Blockquotes** <br>
 
 > Não Faltem!<br>
 
@@ -44,6 +44,6 @@ function selecionaElemento() {
 
 Frutas | Doces  | Salgados
 :----- | :----: | ------:
-Kiwi   | Bala   | Sal
+Kiwi   | Bala   | Kibe
 Morango| Churros| Risole
 
