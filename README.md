@@ -26,7 +26,24 @@ Matérias Faculdade:
     * Conjuntos
     * Algébra
 
-* PMI
-  * VBA
-  * CRUD
-  * Excel
+> **Isso é um Blockquote** <br>
+
+> Não Faltem!<br>
+
+> _Vinicius Freitas_
+
+Este é um método `console.log()` do javascript.
+
+Esta é uma função do JavaScript:
+
+```javascript
+function selecionaElemento() {
+  const body = document.querySelector('body');
+}
+```
+
+Frutas | Doces  | Salgados
+:----- | :----: | ------:
+Kiwi   | Bala   | Sal
+Morango| Churros| Risole
+
