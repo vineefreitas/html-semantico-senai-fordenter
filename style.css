@@ -5,11 +5,9 @@ body {
 
  }
  p {
-   color: #ffffff;
    line-height: 1.5;
    text-align: justify;
    margin-bottom: 20px;
-
  }
  .titulo-da-pagina {
     color:#ff4500;
@@ -40,7 +38,12 @@ body {
 
 .paragrafo-de-artigo {
    background-color: #0C356A;
+   color: #ffffff;
+   padding: 15px;
+   border-radius: 15px;
+   margin: 0;
+}
 
-   padding: 20px;
-   border-radius: 20px;
+.paragrafo-de-artigo + .paragrafo-de-artigo {
+   padding-top: 0;
 }
