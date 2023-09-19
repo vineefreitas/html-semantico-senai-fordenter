@@ -40,10 +40,17 @@ body {
    background-color: #0C356A;
    color: #ffffff;
    padding: 15px;
-   border-radius: 15px;
    margin: 0;
 }
 
-.paragrafo-de-artigo + .paragrafo-de-artigo {
+.paragrafo-de-artigo ~ .paragrafo-de-artigo {
    padding-top: 0;
+}
+
+article p:nth-of-type(2) {
+   border-radius: 15px 15px 0 0;
+}
+
+article p:last-child {
+   border-radius: 0 0 15px 15px;
 }
